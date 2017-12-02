@@ -10,6 +10,9 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require rails-ujs
-//= require turbolinks
+//= require jquery
+//= require jquery_ujs
+// Bower packages
+//= require angular/angular
+//= require bootstrap-sass/bootstrap-sass
 //= require_tree .
