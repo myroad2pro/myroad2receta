@@ -11,8 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
 // Bower packages
 //= require angular/angular
-//= require bootstrap-sass/bootstrap-sass
+//= require bootstrap-sass-official
 //= require_tree .
